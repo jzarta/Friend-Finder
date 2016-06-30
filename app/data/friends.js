@@ -1,0 +1,70 @@
+//data
+var  friendData =
+[
+	{
+	  "name":"Valderrama",
+	  "photo":"http://www.formfiftyfive.com/wp-content/uploads/2014/01/Playmakers_Valderrama.png",
+	  "scores":[
+	     3,
+	     1,
+	     5,
+	     3,
+	     2,
+	     1,
+	     4,
+	     5,
+	     3,
+	     2
+	   ]
+	},
+	{
+	  "name":"Ronaldinho Gaúcho",
+	  "photo":"http://graffica.info/wp-content/uploads/Playmakers_02-Ronaldinho.jpg",
+	  "scores":[
+	     1,
+	     5,
+	     3,
+	     1,
+	     2,
+	     3,
+	     2,
+	     3,
+	     4,
+	     5
+	   ]
+	},
+	{
+	  "name":"Andrea Pirlo",
+	  "photo":"http://fanfeed.de/wp-content/uploads/2014/06/Playmakers_Pirlo_Italy_print_rgb-662x1024.jpg",
+	  "scores":[
+	     3,
+	     2,
+	     5,
+	     2,
+	     1,
+	     1,
+	     2,
+	     1,
+	     2,
+	     3
+	   ]
+	},
+	{
+	  "name":"Andres Iniesta",
+	  "photo":"http://67.media.tumblr.com/4ef95dac5267b303662d79e470e892d1/tumblr_mpidl0t8PW1sp8304o2_1280.png",
+	  "scores":[
+	     5,
+	     5,
+	     4,
+	     4,
+	     3,
+	     2,
+	     4,
+	     3,
+	     2,
+	     5
+	   ]
+	}
+];
+
+module.exports = friendData;
